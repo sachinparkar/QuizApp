@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="TextView">Deviwo Or Sajjano Aap sab ka Swagat hai Quiz App Main</string>
+    <string name="btn1">True</string>
+    <string name="btn2">False</string>
+    <string name="btn3">Prev</string>
+    <string name="btn4">Next</string>
+    <string name="india">There are 28 states and 8 Union territories in the India.</string>
+    <string name="bangaldesh">national anthem of bangladesh is "ek la chalo re" by Ravindranath tagore</string>
+    <string name="apj">apj abdul kalam known as missile man of india</string>
+    <string name="sachin">sachin Tendulkar is great Dancer</string>
+    <string name="zero">Aryabhata is often credited for the invention of the number zero</string>
+    <string name="correct">Correct</string>
+    <string name="inCorrect">inCorrect</string>
+    <string name="awesome">you are Awesome</string>
+</resources>
